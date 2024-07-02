@@ -1,3 +1,16 @@
+# Running on localhost:3000 
+![image](https://github.com/PrinceShubham1232/Multivendor-e-commerce-website-frontend-/assets/90562853/8bc26a63-6a90-4198-a3a2-3d4706b3cead)
+
+![image](https://github.com/PrinceShubham1232/Multivendor-e-commerce-website-frontend-/assets/90562853/f709a596-00df-42cd-8e1f-58c206b84c56)
+
+![image](https://github.com/PrinceShubham1232/Multivendor-e-commerce-website-frontend-/assets/90562853/4f9b85ee-7b9d-465b-abd3-c2edd31f7d70)
+
+![image](https://github.com/PrinceShubham1232/Multivendor-e-commerce-website-frontend-/assets/90562853/81736c6e-6cdc-4349-b267-88a4531239de)
+
+![image](https://github.com/PrinceShubham1232/Multivendor-e-commerce-website-frontend-/assets/90562853/10b4043c-6c34-4a8c-bbbc-4d9802e38c14)
+
+![image](https://github.com/PrinceShubham1232/Multivendor-e-commerce-website-frontend-/assets/90562853/4a651164-28ed-4fba-b136-d6b9e56b6326)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
